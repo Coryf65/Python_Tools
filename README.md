@@ -32,3 +32,9 @@ Creating and learning about custom tools that help a process and accomplish a sp
 - ouput: Slide counts and filenames (optionally, a summary)
 
 - Thoughts, a .pptx file is a zip file, same as a keynotes file, making a GUI with TKinter
+
+### Check it out
+
+```Shell
+$ python slidecount.py
+```
