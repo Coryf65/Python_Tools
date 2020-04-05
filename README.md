@@ -38,3 +38,9 @@ Creating and learning about custom tools that help a process and accomplish a sp
 ```Shell
 $ python slidecount.py
 ```
+
+
+Follow along
+
+
+[Linkedin Learning](https://www.linkedin.com/learning/building-tools-with-python/packaging-and-distributing-a-tool)
